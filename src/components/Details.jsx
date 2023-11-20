@@ -49,7 +49,7 @@ function Details() {
           </Link>
 
           <Link to="/EV" className="details__box">
-            <img src="src/assets/Tesla.png" alt="Tesla Logo" />
+            <img src="../assets/Tesla.png" alt="Tesla Logo" />
             <p>SUPER CHARGE</p>
           </Link>
         </div>
