@@ -1,0 +1,43 @@
+.main__content {
+  background-image: url(src/assets/image3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 45rem;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 5rem 0rem 5rem 0rem;
+  width: 100%;
+}
+.main__carinfo {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.main__buttons {
+  text-align: center;
+}
+.main__button {
+  background-color: #000;
+  border-radius: 1.875rem;
+  border: 0.125rem solid #a675d4;
+  color: #f5f5f5;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-right: 1rem;
+  padding: 0.938rem 3.4rem;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  @media (max-width: 500px) {
+    margin-top: 1rem;
+  }
+}
+.main__button:hover {
+  background-color: #1b1a1a;
+  border-color: rgb(146, 142, 151);
+  color: white !important;
+}
