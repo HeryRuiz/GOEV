@@ -8,7 +8,7 @@ At the heart of GOEV is a relentless pursuit of innovation and technology. Our e
 
 </p>
 
-👉 Live Demo: <a href='https://youcoin.vercel.app'>GOEV Demo</a>
+👉 Live Demo: <a href='https://goev-five.vercel.app/'>GOEV Demo</a>
 
 <h3>Built using:</h3>
 
