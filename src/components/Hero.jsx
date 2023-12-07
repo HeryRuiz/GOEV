@@ -7,7 +7,7 @@ function Hero() {
         <div className="hero__content">
           <div className="hero__text">
             <h1 className="hero__text--title">Discover luxury and wealth.</h1>
-            <p className="hero__text--des">Explore the latest inventory.</p>
+            <p className="hero__text--des">Explore the latest electric.</p>
             <Link to="/EV" className="hero__explore">
               Explore The Collection
             </Link>

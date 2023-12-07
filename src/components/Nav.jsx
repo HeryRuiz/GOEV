@@ -44,7 +44,7 @@ function Nav() {
             <Link to="/">Details</Link>
           </li>
           <li onClick={openMobile}>
-            <Link to="/">Explore</Link>
+            <Link to="/EV">Collection</Link>
           </li>
         </ul>
       </div>
