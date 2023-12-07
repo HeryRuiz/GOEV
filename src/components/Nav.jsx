@@ -24,8 +24,8 @@ function Nav() {
             <li onClick={() => toSection("details")}>
               <Link to="/">Details</Link>
             </li>
-            <li onClick={() => toSection("explore")}>
-              <Link to="/">Explore</Link>
+            <li>
+              <Link to="/EV">Collection</Link>
             </li>
             <Link to="/EV" className="navbar__menu-build">
               Build

@@ -1,7 +1,7 @@
 import "../styles/Details.css";
 import { Search, ArrowsExchange, Location } from "tabler-icons-react";
 import { Link } from "react-router-dom";
-
+import tesla from '../assets/Tesla.png'
 function Details() {
   return (
     <section className="details">
@@ -49,7 +49,7 @@ function Details() {
           </Link>
 
           <Link to="/EV" className="details__box">
-            <img src="src/assets/Tesla.png" alt="Tesla Logo" />
+            <img src={tesla} alt="Tesla Logo" />
             <p>SUPER CHARGE</p>
           </Link>
         </div>

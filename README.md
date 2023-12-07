@@ -8,7 +8,7 @@ At the heart of GOEV is a relentless pursuit of innovation and technology. Our e
 
 </p>
 
-👉 Live Demo: <a href='https://youcoin.vercel.app'>GOEV Demo</a>
+👉 Live Demo: <a href='https://goev-five.vercel.app'>GOEV Demo</a>
 
 <h3>Built using:</h3>
 
@@ -23,7 +23,7 @@ At the heart of GOEV is a relentless pursuit of innovation and technology. Our e
 <h3 align='center'>Home Page 🏠</h3>
 
 <div align='center'>
-  <img src='https://cdn.discordapp.com/attachments/1175025075448205375/1176130557952925746/localhost_5173__3.png?ex=656dbff0&is=655b4af0&hm=9442689401dd4308853fa509f5439d3ecad0ad314405b715ab8aaa13b3990747&'/>
+  <img src='home.png'/>
 </div>
 
 <br><br>
@@ -31,5 +31,5 @@ At the heart of GOEV is a relentless pursuit of innovation and technology. Our e
 <h3 align='center'>Car Page 🏎️</h3>
 
 <div align='center'>
-  <img src='https://cdn.discordapp.com/attachments/1175025075448205375/1176159218814947338/localhost_5173_EV.png?ex=656ddaa1&is=655b65a1&hm=f402aca1e4f82af85883fe53e477ac18b7852a38e530954c676fa8e664906c31&'/>
+  <img src='car.png'/>
 </div>
