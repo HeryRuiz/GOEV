@@ -1,6 +1,7 @@
 import React from "react";
 import "../styles/OverviewVideo.css";
 import Video from "../assets/video1.mp4";
+import { Link } from "react-router-dom";
 
 function OverviewVideo() {
   return (
@@ -11,14 +12,14 @@ function OverviewVideo() {
             <source src={Video} type="video/mp4" />
           </video>
           <div className="overview__des">
-            <h2 className="overview__title">2024 GOEV Model 1</h2>
-            <p className="overview__medium">Starting MSRP $29,999*</p>
-            <p className="overview__small">
-              GOEV Model 1 shown in Light Blue. Vehicle shown with options using
-              visual effects. Limited availability.
+            <h2 className="overview__title">GOEV Model 1</h2>
+            <p className="overview__medium">
+              EVERYONE DRIVES BUT NOT EVERYONE IS A DRIVER.
             </p>
           </div>
-          <button className="overview__button">Purchase</button>
+          <button className="overview__button">
+            <Link to="/EV">Build</Link>
+          </button>
         </div>
       </div>
     </section>

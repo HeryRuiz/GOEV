@@ -21,7 +21,7 @@ function Nav() {
             <li onClick={() => toSection("hero")}>
               <Link to="/">Home</Link>
             </li>
-            <li onClick={() => toSection("details")}>
+            <li>
               <Link to="/Overview">Overview</Link>
             </li>
             <li>
