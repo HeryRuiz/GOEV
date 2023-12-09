@@ -34,4 +34,11 @@ At the heart of GOEV is a relentless pursuit of innovation and technology. Our e
   <img src='car.png'/>
 </div>
 
+<br><br>
+
+<h3 align='center'>Overview 🔥</h3>
+
+<div align='center'>
+  <img src='overview.png'/>
+</div>
 
