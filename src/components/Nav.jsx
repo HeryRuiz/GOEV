@@ -22,7 +22,7 @@ function Nav() {
               <Link to="/">Home</Link>
             </li>
             <li onClick={() => toSection("details")}>
-              <Link to="/">Details</Link>
+              <Link to="/Overview">Overview</Link>
             </li>
             <li>
               <Link to="/EV">Collection</Link>
@@ -41,7 +41,7 @@ function Nav() {
             <Link to="/">Home</Link>
           </li>
           <li onClick={openMobile}>
-            <Link to="/">Details</Link>
+            <Link to="/Overview">Overview</Link>
           </li>
           <li onClick={openMobile}>
             <Link to="/EV">Collection</Link>
