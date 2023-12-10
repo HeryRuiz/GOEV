@@ -32,7 +32,7 @@
   }
 }
 .video__title {
-  color: #b895da;
+  color: #7691a8;
   font-size: 3rem;
   @media (max-width: 700px) {
     font-size: 2rem;
@@ -59,7 +59,7 @@
 .video__button {
   background-color: #000;
   border-radius: 1.875rem;
-  border: 0.125rem solid #a675d4;
+  border: 0.125rem solid #7691a8;
   color: #f5f5f5;
   cursor: pointer;
   display: inline-block;
