@@ -19,10 +19,10 @@ function Nav() {
           </div>
           <ul className="navbar__menu">
             <li onClick={() => toSection("hero")}>
-              <Link to="/">Home</Link>
+              <Link to="/" >Home</Link>
             </li>
-            <li>
-              <Link to="/Overview">Overview</Link>
+            <li onClick={() => toSection("details")}>
+              <Link to="/">Overview</Link>
             </li>
             <li>
               <Link to="/EV">Collection</Link>
@@ -41,7 +41,7 @@ function Nav() {
             <Link to="/">Home</Link>
           </li>
           <li onClick={openMobile}>
-            <Link to="/Overview">Overview</Link>
+          <Link to="/">Overview</Link>
           </li>
           <li onClick={openMobile}>
             <Link to="/EV">Collection</Link>
