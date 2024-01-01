@@ -68,7 +68,7 @@
   margin: 0rem 3rem 1.75rem 3rem;
   padding: 0.938rem 1.875rem;
   text-decoration: none;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.2s ease-in-out;
 
   @media (max-width: 500px) {
     margin-left: 0.5rem;

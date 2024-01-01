@@ -41,9 +41,4 @@
 
 <br><br>
 
-<h3 align='center'>Overview 🔥</h3>
-
-<div align='center'>
-  <img src='overview.png'/>
-</div>
 
