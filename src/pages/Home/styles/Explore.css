@@ -1,0 +1,63 @@
+.explore{
+  background-image: url(https://cdn.discordapp.com/attachments/1201847746638651424/1201888509703749692/image21.jpg?ex=65cb74e6&is=65b8ffe6&hm=8d221e562b65e10a82e36409cdf4bf7672f5b45da387fcd7ff19a2d628211cd3&);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.explore__content {
+  align-items: start;
+  display: flex;
+  flex-direction: column;
+  height: 60rem;
+  justify-content: center;
+  overflow: hidden;
+  width: 100%;
+}
+.explore__text {
+  color: white;
+  font-weight: 800;
+  font-size: 4rem;
+  padding: 3rem 3rem 0rem 3rem;
+  @media (max-width: 1000px) {
+    font-size: 3rem;
+  }
+  @media (max-width: 500px) {
+    font-size: 2.5rem;
+    padding-left: 0.5rem;
+  }
+  @media (max-width: 350px) {
+    font-size: 1.9rem;
+    padding-left: 0.5rem;
+  }
+}
+.explore__text--des {
+  color: white;
+  font-weight: 800;
+  font-size: 2.2rem;
+  @media (max-width: 500px) {
+    font-size: 1.3rem;
+  }
+}
+.explore__shopnew {
+  background-color: #000;
+  border-radius: 1.875rem;
+  border: 0.125rem solid #7691a8;
+  color: #f5f5f5;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-left: 3rem;
+  margin-top: 1rem;
+  padding: 0.938rem 1.875rem;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+
+  @media (max-width: 500px) {
+    margin-left: 0.5rem;
+  }
+}
+.explore__shopnew:hover {
+  border-color: rgb(169, 132, 214);
+  color: white !important;
+}

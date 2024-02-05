@@ -1,0 +1,44 @@
+.book{
+  background-image: url(https://cdn.discordapp.com/attachments/1201847746638651424/1201857186482102293/image3.jpg?ex=65cb57ba&is=65b8e2ba&hm=11b59fe2aaae68ccbf350aab5e62aede659b3f8373f4f793a210dd469be73bdc&);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.book__content {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  height: 45rem;
+  justify-content: space-between;
+  overflow: hidden;
+  padding: 5rem 0rem 5rem 0rem;
+  width: 100%;
+}
+.book__carinfo {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.book__buttons {
+  text-align: center;
+}
+.book__button {
+  background-color: #000;
+  border-radius: 1.875rem;
+  border: 0.125rem solid #7691a8;
+  color: #f5f5f5;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin-right: 1rem;
+  padding: 0.938rem 3.4rem;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  @media (max-width: 500px) {
+    margin-top: 1rem;
+  }
+}
+.book__button:hover {
+  border-color: rgb(169, 132, 214);
+  color: white !important;
+}
