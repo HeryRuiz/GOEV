@@ -1,6 +1,6 @@
 .hero__content {
   align-items: start;
-  background-image: url(https://cdn.discordapp.com/attachments/1201847746638651424/1201852269788934164/image1.jpg?ex=65cb5326&is=65b8de26&hm=a648f50b40a889fefc14eaeefd563eab49f15223a8b3fbf519a5eb12ea5cb74c&);
+  background-image: url(../images/image1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10,7 +10,7 @@
   justify-content: center;
   width: 100%;
   @media (max-width: 1000px) {
-    background-image: url(https://cdn.discordapp.com/attachments/1201847746638651424/1202095475357126716/005BL4X1ly1he9qmjfd60j333c221hdt1.png?ex=65cc35a7&is=65b9c0a7&hm=f60f1a0dd2c840c524d6550a0e5000f253bac43f41b45c89a22227a11e498d57&);
+    background-image: url(../images/image1.jpg);
 }
 @media (max-width: 500px) {
    height: 48rem;
