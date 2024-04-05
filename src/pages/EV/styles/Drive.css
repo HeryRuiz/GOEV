@@ -1,0 +1,76 @@
+
+.drive__content{
+  background-image: url(https://cdn.discordapp.com/attachments/1201847746638651424/1201857130928554044/image.png?ex=65cb57ad&is=65b8e2ad&hm=f0dcbb4359a7f1370e5fb66098a52d934da0a503fb48a8823b61a25d05f52bd8&);
+  background-position: center;
+}
+.drive__image {
+  align-items: end;
+  color: white;
+  display: flex;
+  height: 30rem;
+  justify-content: space-between;
+  text-align: start;
+  @media (max-width: 700px) {
+    align-items: start;
+    flex-direction: column;
+    justify-content: end;
+  }
+}
+.drive__des {
+  padding: 0rem 3rem 1.75rem 3rem;
+  @media (max-width: 700px) {
+    padding: 0rem 1rem 1.75rem 1rem;
+  }
+}
+.drive__title {
+  color: #7691a8;
+  font-size: 3rem;
+  @media (max-width: 700px) {
+    font-size: 2rem;
+  }
+  @media (max-width: 500px) {
+    font-size: 1.8em;
+  }
+}
+.drive__medium {
+  font-size: 2rem;
+  @media (max-width: 500px) {
+    font-size: 1.3rem;
+  }
+}
+.drive__small {
+  font-size: 0.6rem;
+  @media (max-width: 500px) {
+    font-size: 0.4rem;
+  }
+}
+.drive__button {
+  font-size: 3rem;
+}
+.drive__button {
+  background-color: #000;
+  border-radius: 1.875rem;
+  border: 0.125rem solid #7691a8;
+  color: #f5f5f5;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin: 0rem 3rem 1.75rem 3rem;
+  padding: 0.938rem 1.875rem;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+
+  @media (max-width: 500px) {
+    margin-left: 0.5rem;
+  }
+  @media (max-width: 700px) {
+    flex-direction: column;
+    justify-content: end;
+    align-items: start;
+  }
+}
+.drive__button:hover {
+  border-color: rgb(169, 132, 214);
+  color: white !important;
+}
