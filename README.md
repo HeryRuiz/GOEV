@@ -1,4 +1,4 @@
-<div align='center'><img style="width:20%" src='https://cdn.discordapp.com/attachments/1201847746638651424/1201879915482324992/Logo-Polestar.png?ex=65cb6ce5&is=65b8f7e5&hm=b4fdbb94502629f4425a356272a3388cdf53651718c9da17f4bf0359fc650a88&'/></div>
+<div align='center'><img style="width:20%" src='./readme/Logo.png'/></div>
 
 <h2>About the project</h2>
 
